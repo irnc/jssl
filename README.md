@@ -13,11 +13,13 @@ See https://github.com/irnc/javascript-tools
 
 ## OOP in JavaScript
 
-TODO
+* [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+  * other books in the _You Don't Know JS_ book series would be really helpfull too
 
 ## WebSocket
 
-TODO
+* http://socket.io/get-started/chat/
+* https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 
 ## See also
 
